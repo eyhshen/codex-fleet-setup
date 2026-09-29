@@ -16,7 +16,7 @@ are going, then writes the team into `~/.codex/` (backing up anything it changes
 
 **Option 1 — in Codex (easiest):** paste this into Codex:
 
-> Install the skill from https://github.com/eyhshen/codex-fleet-setup
+> Install the skill from GitHub repo eyhshen/codex-fleet-setup — it's at the repo root, so use `--path . --name codex-fleet-setup`
 
 **Option 2 — in a terminal:**
 
